@@ -10,7 +10,7 @@ A simple one-to-one real-time chat application, similar to WhatsApp.
 - 🖼️ Change profile picture
 
 ## 🛠️ Tech Stack
-- **Frontend:** React + Redux
+- **Frontend:** React + Zustand
 - **Backend:** Node.js + Express
 - **Database:** MongoDB Atlas
 - **Real-time:** Socket.IO
