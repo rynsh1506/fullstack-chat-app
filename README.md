@@ -17,6 +17,6 @@ A simple one-to-one real-time chat application, similar to WhatsApp.
 - **File Storage:** Cloudinary
 
 ## 🚀 Demo
-- Live demo (temporary via ngrok): [https://xxxx.ngrok.io](https://xxxx.ngrok.io)
+- Live demo (temporary via ngrok): [https://goblin-growing-normally.ngrok-free.app/](https://goblin-growing-normally.ngrok-free.app/)
 
 ---
